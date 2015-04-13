@@ -1,0 +1,23 @@
+{
+  "name": "todocli",
+  "version": "0.0.1",
+  "description": "Simple todo command-line interface",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PeterPanen/todocli.git"
+  },
+  "keywords": [
+    "todo",
+    "cli"
+  ],
+  "author": "Rasmus Knudsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterPanen/todocli/issues"
+  },
+  "homepage": "https://github.com/PeterPanen/todocli"
+}
