@@ -2,7 +2,7 @@
 
 Todo command-line interface for NodeJS
 
-[![npm version](https://badge.fury.io/js/todocli.svg)](http://badge.fury.io/js/todocli)
+[![npm version](https://badge.fury.io/js/todocli.svg)](https://www.npmjs.com/package/todocli)
 
 ## Installation
 
