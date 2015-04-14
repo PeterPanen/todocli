@@ -1,4 +1,0 @@
-/**
- * NodeJS ToDo Terminal Application
- */
-
