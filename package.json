@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/PeterPanen/todocli",
   "dependencies": {
+    "cli-color": "^0.3.3",
     "commander": "^2.7.1",
     "jsonfile": "^2.0.0",
     "lodash": "^3.6.0"
