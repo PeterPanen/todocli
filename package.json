@@ -1,6 +1,6 @@
 {
   "name": "todocli",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Simple todo command-line interface",
   "main": "./lib/todo",
   "bin": {
