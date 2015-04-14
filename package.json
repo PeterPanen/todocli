@@ -30,5 +30,6 @@
   },
   "engines": {
     "node": "*"
-  }
+  },
+  "preferGlobal": true
 }
